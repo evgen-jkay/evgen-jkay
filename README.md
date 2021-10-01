@@ -84,7 +84,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=evgen-jkay&theme=algolia" alt="evgen-jkay Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=evgen-jkay&theme=merko" alt="evgen-jkay Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="evgen-jkay Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evgen-jkay&theme=algolia&layout=compact" />
