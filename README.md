@@ -68,7 +68,7 @@
 
 ### 🤝 Connect with me:
 
-eviljkay@gmail.com
+evgenlandarenko@gmail.com
 
 ### ⚙️ GitHub Analytics
 
