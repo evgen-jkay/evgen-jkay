@@ -10,9 +10,16 @@
 
 ## I'm a beginning Developer!
 
-- 📍 I’m From Ukraine (Makarov)
+- 📍 I’m From Ukraine (Makarov) 🇺🇦
 - 💻 Lesson Java and PHP Laravel
 - 👨‍💻 I am looking for my first job in Java
+
+> I love Java 💻
+> I strive to become a Java developer 😎
+> Constantly learning this language.  
+> I also like the PHP Laravel framework, I make websites on it.  
+> Why don't I use Java Spring for websites?  
+> Because many customers choose hosting without Java support, and those sites that I do do not need Spring power.
 
 ## 🛠️ My favorite tools
 
@@ -68,7 +75,7 @@
 
 ### 🤝 Connect with me:
 
-evgenlandarenko@gmail.com
+📝 evgenlandarenko@gmail.com
 
 ### ⚙️ GitHub Analytics
 
