@@ -73,8 +73,6 @@ evgenlandarenko@gmail.com
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
   <a href="https://github.com/evgen-jkay?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/evgen-jkay"/></a>
   <a href="https://github.com/evgen-jkay?tab=repositories&sort=stargazers">
