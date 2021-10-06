@@ -10,7 +10,7 @@
 
 ## I'm a beginning Developer!
 
-- 📍 I’m From Ukraine (city Makarov) 🇺🇦
+- 📍 I’m From Ukraine (Kiev obl., Makarov city) 🇺🇦
 - 💻 Lesson `Java` and `PHP Laravel`
 - 👨‍💻 I am looking for my first job in Java
 
