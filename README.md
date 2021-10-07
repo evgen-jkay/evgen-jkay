@@ -12,7 +12,7 @@
 
 - 📍 I’m From Ukraine (Kiev obl., Makarov city) 🇺🇦
 - 💻 Lesson `Java` and `PHP Laravel`
-- 👨‍💻 I am looking for my first job in Java
+- 👨‍💻 I am looking for my first job in Java or PHP Laravel
 
 > I love Java 💻
 > 
