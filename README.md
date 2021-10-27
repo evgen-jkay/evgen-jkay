@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Evgen Landarenko profile!
+  Добро пожаловать на профиль Евгения Ландаренко!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </3>
 
@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20and%20PHP%20Laravel%20developer;0%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## I'm a beginning Developer!
+## Начинающи Java Developer!
 
-- 📍 I’m From Ukraine (Kiev obl., Makarov city) 🇺🇦
-- 💻 Lesson `Java` and `PHP Laravel`
-- 👨‍💻 I am looking for my first job in Java or PHP Laravel
+- 😎 Занимаюсь самообучение программирования!
+- 📍 Я из Украины (Киевская обл., смт. Макаров) 🇺🇦
+- 💻 Активно учу `Java` и заинтересован в `PHP Laravel`
+- 👨‍💻 Ищу работу Java Developer!
+- 😎 С больным интересом выполняю тестовые задания! И ОЧЕНЬ жду критики моего кода!
 
-> I love Java 💻
-> 
-> I strive to become a Java developer 😎
-> Constantly learning this language.  
-> I also like the PHP Laravel framework, I make websites on it.  
-> Why don't I use Java Spring for websites?  
-> Because many customers choose hosting without Java support, and those sites that I do do not need Spring power.
+> Мне нравиться Java! 💻
+> Из-за строгой типизации 😎
+> Но иногда для создание сайта использую Laravel.
+> Заинтересован также в изучении TypeScript.
+> Приглянулись мне Angular для front-end и Nest.js для back-end! 
 
 ## 🛠️ My favorite tools
 
@@ -80,7 +80,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🤝 Connect with me:
+### 🤝 Мои контакты:
 <p>
     <a href="mailto:evgenlandarenko@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://instagram.com/jkay_lucique"><img alt="Instagram" src="https://img.shields.io/badge/jkay_lucique-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
