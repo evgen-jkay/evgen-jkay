@@ -102,9 +102,16 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=evgen-jkay&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="evgen-jkay" />
 </p>
 
-
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evgen-jkay&theme=dark" alt="evgen-jkay" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://www.codewars.com/users/evgen-jkay/badges/large" alt="evgen-jkay codewars" />
+</p>
+
+<p align="center">
+    <a href="https://ru.stackoverflow.com/users/468818/evgen"><img src="https://ru.stackoverflow.com/users/flair/468818.png?theme=dark" width="208" height="58" alt="Профиль участника Evgen на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Evgen на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 </p>
 
 ### 📙 Моя библиотека состоит из:
