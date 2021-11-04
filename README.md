@@ -1,7 +1,7 @@
 <h3 align="center">
   Добро пожаловать на профиль Евгения Ландаренко!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</3>
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,7 +16,8 @@
 - 👨‍💻 Ищу работу Java Developer!
 - 😎 С больным интересом выполняю тестовые задания! И ОЧЕНЬ жду критики моего кода!
 
-> Мне нравиться Java! 💻
+> Мне нравиться Java! 💻 
+> 
 > Из-за строгой типизации 😎
 > Но иногда для создание сайта использую Laravel.
 > Заинтересован также в изучении TypeScript.
@@ -91,18 +92,24 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/evgen-jkay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=evgen-jkay&theme=merko" alt="evgen-jkay Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="evgen-jkay Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evgen-jkay&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=evgen-jkay&row=2&column=3&theme=gruvbox" alt="evgen-jkay" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evgen-jkay&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="evgen-jkay" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evgen-jkay&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="evgen-jkay" />
+</p>
+
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evgen-jkay&theme=dark" alt="evgen-jkay" />
+</p>
 
 ### 📙 Моя библиотека состоит из:
-1. Изучаем Java (Head First Java). Берт Бейтс и Кэти Сьерра
-2. Чистый код. Роберт Мартин
-3. Объектно ориентированное программирования в Java. О. И. Гуськова 
+1. `Изучаем Java (Head First Java)` Берт Бейтс и Кэти Сьерра
+2. `Чистый код` Роберт Мартин
+3. `Объектно ориентированное программирования в Java` О. И. Гуськова 
