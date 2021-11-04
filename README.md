@@ -79,8 +79,6 @@
     <a href="https://t.me/jkay_luc"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-📝 evgenlandarenko@gmail.com
-
 ### ⚙️ GitHub Analytics
 
 <div align="center">
