@@ -109,7 +109,9 @@
 ### 👨‍💻 CodeWars
 
 <p align="center">
-    <img align="center" src="https://www.codewars.com/users/evgen-jkay/badges/large" alt="evgen-jkay codewars" />
+    <a href="https://www.codewars.com/users/evgen-jkay">
+        <img align="center" src="https://www.codewars.com/users/evgen-jkay/badges/large" alt="evgen-jkay codewars" />
+    </a>
 </p>
 
 ### Other
