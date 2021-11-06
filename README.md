@@ -114,7 +114,7 @@
     </a>
 </p>
 
-### Other
+### 📝 StackOverflow
 
 <p align="center">
     <a href="https://ru.stackoverflow.com/users/468818/evgen"><img src="https://ru.stackoverflow.com/users/flair/468818.png?theme=dark" width="208" height="58" alt="Профиль участника Evgen на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Evgen на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
