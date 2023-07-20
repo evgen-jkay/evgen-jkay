@@ -15,10 +15,6 @@
 - 💻 Активно вивчаю `Java` и `Angular Cli`
 - 👨‍💻 Та хочу працювати `Java` Developer також робити круті проекти з `Angular`!
 
-## Danate me
-![Endpoint Badge](https://img.shields.io/badge/mono_€-5375_4199_1186_3015-red)
-![Endpoint Badge](https://img.shields.io/badge/mono_$-5375_4188_1171_8451-blue)
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
