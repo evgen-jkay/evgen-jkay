@@ -85,7 +85,7 @@
 #### IDE та редактори:
 
 <div>
-    <img src="assets/editor/Intellij_IDEA_icon.svg" height="48" alt="Intellij_IDEA" />  
+    <img src="assets/editor/IntelliJ_IDEA_icon.svg" height="48" alt="Intellij_IDEA" />  
     <img src="assets/editor/GoLand_icon.svg" height="48" alt="GoLand" /> 
     <img src="assets/editor/PhpStorm_icon.svg" height="48" alt="PhpStorm" /> 
     <img src="assets/editor/PyCharm_icon.svg" height="48" alt="PyCharm" /> 
