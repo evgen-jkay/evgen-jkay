@@ -14,48 +14,56 @@
 
 ## Мови програмування, фреймворки та бібліотеки:
 
-<img src="assets/tech/jee-3.svg" height="48" alt="git" />
-<img src="assets/tech/python-5.svg" height="48" alt="git" />
-<img src="assets/tech/php-1.svg" height="48" alt="git" />
-<img src="assets/tech/logo-javascript.svg" height="48" alt="git" />
-<img src="assets/tech/typescript.svg" height="48" alt="git" />
-<img src="assets/tech/icons8-bash.svg" height="48" alt="git" />
+<div>
+    <img src="assets/tech/jee-3.svg" height="48" alt="git" />
+    <img src="assets/tech/python-5.svg" height="48" alt="git" />
+    <img src="assets/tech/php-1.svg" height="48" alt="git" />
+    <img src="assets/tech/logo-javascript.svg" height="48" alt="git" />
+    <img src="assets/tech/typescript.svg" height="48" alt="git" />
+    <img src="assets/tech/icons8-bash.svg" height="48" alt="git" />
+</div>
 
 #### Фреймворки, бібліотеки та інше:
 
-<img src="assets/tech/spring-3.svg" height="48" alt="git" />
-<img src="assets/tech/laravel-2.svg" height="48" alt="git" />
-<img src="assets/tech/modx-logo.svg" height="48" alt="git" />
-<img src="assets/tech/wordpress-icon-1.svg" height="48" alt="git" />
-<img src="assets/tech/nodejs-1.svg" height="48" alt="git" />
-<img src="assets/tech/angular-icon-1.svg" height="48" alt="git" />
-<img src="assets/tech/react-2.svg" height="48" alt="git" />
-<img src="assets/tech/express-109.svg" height="48" alt="git" />
-<img src="assets/tech/html-1.svg" height="48" alt="git" />
-<img src="assets/tech/css-3.svg" height="48" alt="git" />
-<img src="assets/tech/less-63.svg" height="48" alt="git" />
-<img src="assets/tech/sass-1.svg" height="48" alt="git" />
-<img src="assets/tech/jquery-2.svg" height="48" alt="git" />
-<img src="assets/tech/bootstrap-5-1.svg" height="48" alt="git" />
-<img src="assets/tech/tailwindcss.svg" height="48" alt="git" />
-<img src="assets/tech/material-ui-1.svg" height="48" alt="git" />
-<img src="assets/tech/markdown.svg" height="48" alt="git" />
+<div>
+    <img src="assets/tech/spring-3.svg" height="48" alt="git" />
+    <img src="assets/tech/laravel-2.svg" height="48" alt="git" />
+    <img src="assets/tech/modx-logo.svg" height="48" alt="git" />
+    <img src="assets/tech/wordpress-icon-1.svg" height="48" alt="git" />
+    <img src="assets/tech/nodejs-1.svg" height="48" alt="git" />
+    <img src="assets/tech/angular-icon-1.svg" height="48" alt="git" />
+    <img src="assets/tech/react-2.svg" height="48" alt="git" />
+    <img src="assets/tech/express-109.svg" height="48" alt="git" />
+    <img src="assets/tech/html-1.svg" height="48" alt="git" />
+    <img src="assets/tech/css-3.svg" height="48" alt="git" />
+    <img src="assets/tech/less-63.svg" height="48" alt="git" />
+    <img src="assets/tech/sass-1.svg" height="48" alt="git" />
+    <img src="assets/tech/jquery-2.svg" height="48" alt="git" />
+    <img src="assets/tech/bootstrap-5-1.svg" height="48" alt="git" />
+    <img src="assets/tech/tailwindcss.svg" height="48" alt="git" />
+    <img src="assets/tech/material-ui-1.svg" height="48" alt="git" />
+    <img src="assets/tech/markdown.svg" height="48" alt="git" />
+</div>
 
 #### Контроль версій та автоматизація збірки:
 
-<img src="assets/ver/git.svg" height="48" alt="git" />
-<img src="assets/ver/github-icon-1.svg" height="48" alt="GitHub" />
-<img src="assets/ver/gitlab.svg" height="48" alt="GitLab" />
-<img src="assets/ver/docker.svg" height="48" alt="Docker" />
-<img src="assets/ver/Apache_Maven_logo.svg" height="48" alt="Maven" />
-<img src="assets/ver/gradle-1.svg" height="48" alt="Gradle" />
+<div>
+    <img src="assets/ver/git.svg" height="48" alt="git" />
+    <img src="assets/ver/github-icon-1.svg" height="48" alt="GitHub" />
+    <img src="assets/ver/gitlab.svg" height="48" alt="GitLab" />
+    <img src="assets/ver/docker.svg" height="48" alt="Docker" />
+    <img src="assets/ver/Apache_Maven_logo.svg" height="48" alt="Maven" />
+    <img src="assets/ver/gradle-1.svg" height="48" alt="Gradle" />
+</div>
 
 #### 🗄️ Databases:
 
-<img src="assets/db/mysql-logo.svg" height="48" alt="MySQL" />
-<img src="assets/db/postgresql.svg" height="48" alt="PostgreSQL" />
-<img src="assets/db/mongodb.svg" height="48" alt="MongoDB" />
-<img src="assets/db/redis.svg" height="48" alt="Redis" />
+<div>
+    <img src="assets/db/mysql-logo.svg" height="48" alt="MySQL" />
+    <img src="assets/db/postgresql.svg" height="48" alt="PostgreSQL" />
+    <img src="assets/db/mongodb.svg" height="48" alt="MongoDB" />
+    <img src="assets/db/redis.svg" height="48" alt="Redis" />
+</div>
 
 #### Методології та управління проектами:
 
@@ -66,32 +74,36 @@
 
 #### Інструменти тестування та аналізу:
 
-<img src="assets/editor/Aqua_icon.svg" height="48" alt="Aqua" /> 
-<img src="assets/tools/YouTrack_icon.svg" height="48" alt="YouTrack" /> 
-<img src="assets/tools/jira-1.svg" height="48" alt="Jira" /> 
-<img src="assets/tools/postman.svg" height="48" alt="Postman" /> 
-<img src="assets/tools/jmeter.svg" height="48" alt="JMeter" /> 
+<div>
+    <img src="assets/editor/Aqua_icon.svg" height="48" alt="Aqua" /> 
+    <img src="assets/tools/YouTrack_icon.svg" height="48" alt="YouTrack" /> 
+    <img src="assets/tools/jira-1.svg" height="48" alt="Jira" /> 
+    <img src="assets/tools/postman.svg" height="48" alt="Postman" /> 
+    <img src="assets/tools/jmeter.svg" height="48" alt="JMeter" /> 
+</div>
 
 #### IDE та редактори:
 
-<img src="assets/editor/Intellij_IDEA_icon.svg" height="48" alt="Intellij_IDEA" />  
-<img src="assets/editor/GoLand_icon.svg" height="48" alt="GoLand" /> 
-<img src="assets/editor/PhpStorm_icon.svg" height="48" alt="PhpStorm" /> 
-<img src="assets/editor/PyCharm_icon.svg" height="48" alt="PyCharm" /> 
-<img src="assets/editor/WebStorm_icon.svg" height="48" alt="WebStorm" /> 
-<img src="assets/editor/android-studio.svg" height="48" alt="Android Studio" /> 
-<img src="assets/editor/vs-code.svg" height="48" alt="VSCode" /> 
-<img src="assets/editor/sublime-text.svg" height="48" alt="Sublime Text" /> 
+<div>
+    <img src="assets/editor/Intellij_IDEA_icon.svg" height="48" alt="Intellij_IDEA" />  
+    <img src="assets/editor/GoLand_icon.svg" height="48" alt="GoLand" /> 
+    <img src="assets/editor/PhpStorm_icon.svg" height="48" alt="PhpStorm" /> 
+    <img src="assets/editor/PyCharm_icon.svg" height="48" alt="PyCharm" /> 
+    <img src="assets/editor/WebStorm_icon.svg" height="48" alt="WebStorm" /> 
+    <img src="assets/editor/android-studio.svg" height="48" alt="Android Studio" /> 
+    <img src="assets/editor/vs-code.svg" height="48" alt="VSCode" /> 
+    <img src="assets/editor/sublime-text.svg" height="48" alt="Sublime Text" /> 
+<div>
 
 #### Бази даних та візуалізація:
 
-<img src="assets/editor/DataGrip_icon.svg" height="48" alt="DataGrip" />
-<img src="assets/tools/mysql-6.svg" height="48" alt="MySQL Workbanch" />
-<img src="assets/tools/tableau-software.svg" height="48" alt="Tableau" />
+<div>
+    <img src="assets/editor/DataGrip_icon.svg" height="48" alt="DataGrip" />
+    <img src="assets/tools/mysql-6.svg" height="48" alt="MySQL Workbanch" />
+    <img src="assets/tools/tableau-software.svg" height="48" alt="Tableau" />
+</div>
 
 #### Інше:
-
-
 
 ### 🤝 Мои контакты:
 <div>
